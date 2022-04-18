@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 ---
-Contact me through [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khong0819@gmail.com)](mailto:khong0819@gmail.com)
+Contact me through [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:khong0819@gmail.com)](mailto:khong0819@gmail.com)
 
 <br/>
 
