@@ -21,4 +21,3 @@ Contact me through [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?sty
 <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegyehong)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegyehong)
