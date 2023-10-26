@@ -18,7 +18,6 @@ Contact me through [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?sty
   Mar 2017 - Feb 2023 
  - Major : Software Enginnering Bachelor's degree
 
-
 <br/>
 
 
